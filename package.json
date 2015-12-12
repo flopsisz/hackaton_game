@@ -1,0 +1,23 @@
+{
+  "name": "hackaton_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mievstac/hackaton_game.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mievstac/hackaton_game/issues"
+  },
+  "homepage": "https://github.com/mievstac/hackaton_game#readme",
+  "dependencies": {
+    "electron-prebuilt": "^0.36.0",
+    "request": "^2.67.0"
+  }
+}
